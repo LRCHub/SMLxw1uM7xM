@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "クスシキ (Instrumental)",
+  "base_artist": "Mrs. GREEN APPLE",
+  "createdAt": "2026-01-07T02:40:51.770510Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クスシキ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/01_クスシキ_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クスシキ - KUSUSHIKI",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": true,
+      "path": "select/02_クスシキ_-_KUSUSHIKI_Mrs._GREEN_APPLE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クスシキ",
+      "artist": "Mrs. GREEN APPLE",
+      "has_synced": false,
+      "path": "select/pl_01_クスシキ_Mrs._GREEN_APPLE.txt"
+    }
+  ]
+}
